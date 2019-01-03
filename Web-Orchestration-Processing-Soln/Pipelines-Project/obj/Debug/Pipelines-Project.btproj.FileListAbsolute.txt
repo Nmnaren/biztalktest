@@ -1,0 +1,5 @@
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Pipelines-Project\bin\Debug\Pipelines-Project.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Pipelines-Project\bin\Debug\Pipelines-Project.pdb
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Pipelines-Project\bin\Debug\Archive-pipelinecomponent.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Pipelines-Project\obj\Debug\Pipelines-Project.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Pipelines-Project\obj\Debug\Pipelines-Project.pdb

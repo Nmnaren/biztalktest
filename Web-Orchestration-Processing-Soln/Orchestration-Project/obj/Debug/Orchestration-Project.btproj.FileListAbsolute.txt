@@ -1,0 +1,7 @@
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Orchestration-Project\bin\Debug\Orchestration-Project.dll.config
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Orchestration-Project\bin\Debug\Orchestration-Project.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Orchestration-Project\bin\Debug\Orchestration-Project.pdb
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Orchestration-Project\bin\Debug\ART.BizTalk.CanonicalSchemas.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Orchestration-Project\bin\Debug\Schemas-Project.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Orchestration-Project\obj\Debug\Orchestration-Project.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Orchestration-Project\obj\Debug\Orchestration-Project.pdb

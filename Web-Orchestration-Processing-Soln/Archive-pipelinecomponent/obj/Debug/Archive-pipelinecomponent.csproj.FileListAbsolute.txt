@@ -1,0 +1,14 @@
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Archive-pipelinecomponent.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Archive-pipelinecomponent.pdb
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.BizTalk.Messaging.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.BizTalk.Pipeline.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.BizTalk.Streaming.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.BizTalk.StreamProcessing.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.BizTalk.FlatFile.Parser.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.BizTalk.Interop.Agent.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.XLANGs.BaseTypes.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.XLANGs.RuntimeTypes.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\bin\Debug\Microsoft.BizTalk.CommonSettings.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\obj\Debug\Archive-pipelinecomponent.dll
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\obj\Debug\Archive-pipelinecomponent.pdb
+D:\Akmal\BizTalk\Rest\Web-Orchestration-Processing-Soln\Archive-pipelinecomponent\obj\Debug\Archive-pipelinecomponent.csprojResolveAssemblyReference.cache
